@@ -11,13 +11,15 @@ Our work unfolds in the following steps:
 
 # Authors
 
-Jahiro Mugheddu   *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
+Davide Caffù   *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
+
+Simone Lima    *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
+
+Erica Manfrin    *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
 
 Luca Panzeri    *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
 
-Enrico Sartor    *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
-
-Nick Usubelli    *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
+Davide Zaltieri    *Politecnico di Milano - MSc in Statistical Learning, Mathematical Engineering*
 
 # Acknowledgments
 
