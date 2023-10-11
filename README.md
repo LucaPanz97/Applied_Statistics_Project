@@ -2,7 +2,7 @@
 
 # Goal
 
-
+The goal of this project is to conduct a comprehensive study of traffic congestion in the Athens city center using millions of vehicle trajectories extracted from drone videos.
 
 # Authors
 
