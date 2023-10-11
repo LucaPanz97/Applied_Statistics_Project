@@ -4,14 +4,15 @@
 
 The goal of this project is to conduct a comprehensive study of traffic congestion in the Athens city center using millions of vehicle trajectories extracted from drone videos.
 
-Specifically, we aim to answer the following research questions:
-1. Which are the busiest areas?
-2. What is the best way to move around the city?
-3. How do road features affect traffic congestion?
+Specifically, we aim to address the following research questions:
+1. Identifying the busiest areas.
+2. Determining the most efficient ways to navigate the city.
+3. Analyzing how road features impact traffic congestion.
 
-After a data preparation based on the transition from road trajectories to a weighted graph, we provide the following results:
-1. Traffic Maps: we present traffic maps indicating the percentage of road congestion using different colors
-2. Shortest Paths: we offer insights into the shortest path from one point to another within the city
+Following data preparation, which involves transitioning from road trajectories to a weighted graph, we present the following results:
+1. Traffic Maps: we provide visual representations of road congestion percentages using various colors.
+2. Shortest Paths: we offer insights into the most efficient routes between different points within the city.
+3. Speed Trends and Traffic Light Locations: we identify road features, such as traffic lights, and analyze speed trends using trajectory functional data.
 
 
 # Authors
